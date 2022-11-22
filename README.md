@@ -16,7 +16,9 @@ For each killed enemy you get different points.
 soon
 
 ## Screenshots:
-![bg_mars_intro_text_1000_700](https://user-images.githubusercontent.com/51271834/203439812-aff49dce-c474-4ffb-9000-bc64f6a449f0.jpeg)
+![1](https://user-images.githubusercontent.com/51271834/203441219-9504ee51-6f05-4aab-873f-d9a9c2bbec28.png)
+![2](https://user-images.githubusercontent.com/51271834/203441261-21f613a4-fb69-4844-8806-7baf4b8c6a1f.png)
+
 ![bg_controls_img_2](https://user-images.githubusercontent.com/51271834/203439863-bbd44575-8716-4492-8207-f73ce1ebbd70.png)
 ![bg_legend](https://user-images.githubusercontent.com/51271834/203439908-718dd024-2e2e-48b3-803d-514650b04aeb.png)
 
