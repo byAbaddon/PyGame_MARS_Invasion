@@ -13,7 +13,7 @@ Do not collide with enemies and do not go outside the boundaries of the screen f
 For each killed enemy you get different points.
 
 ## Video intro:
-(https://youtu.be/uMi-nlDtY0c)
+https://youtu.be/uMi-nlDtY0c
 
 ## Screenshots:
 ![1](https://user-images.githubusercontent.com/51271834/203441219-9504ee51-6f05-4aab-873f-d9a9c2bbec28.png)
