@@ -21,6 +21,10 @@ https://youtu.be/uMi-nlDtY0c
 ![4](https://user-images.githubusercontent.com/51271834/203441530-693baf0a-dbcc-4475-8c3a-de39846b8f6a.png)
 ![3](https://user-images.githubusercontent.com/51271834/203441526-a2bcba28-e21b-4a9d-bb3f-c8927eaf5a11.png)
 
+### Download
+#### For Linux AppImage that run anywhere
+https://github.com/byAbaddon/PyGame_MARS_Invasion/releases/tag/Mars_Invasion_AppImage
+
 
 ## Prerequisites
 - [Python](https://www.python.org)
